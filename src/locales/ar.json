@@ -1,0 +1,89 @@
+
+{
+  "contactTitle": "اتصل بنا",
+  "contactDescription": "يمكنك الوصول إلينا بسهولة باستخدام تفاصيل الاتصال أدناه.",
+  "address": "العنوان",
+  "addressValue": "مركز الأعمال، مدينة الشارقة للنشر – المنطقة الحرة، الشارقة، الإمارات العربية المتحدة",
+  "phone": "الهاتف",
+  "phoneValue": "+971 58 557 760 4",
+  "email": "البريد الإلكتروني",
+  "emailValue": "travelandbeyond243@gmail.com",
+  "yourName": "اسمك",
+  "emailAddress": "البريد الإلكتروني",
+  "subject": "الموضوع",
+  "message": "الرسالة",
+  "sendMessage": "إرسال الرسالة",
+   "contact": "+123456789",
+  
+  "heroTitle": "خصص واحجز باقات عطلات مذهلة",
+  "exploreMore": "استكشف المزيد",
+  "reservation": "حجز",
+  "flights": "رحلات",
+  "reservationForm": "نموذج الحجز",
+  "destination": "الوجهة",
+  "nationality": "الجنسية",
+  "goingDate": "تاريخ الذهاب",
+  "returnDate": "تاريخ العودة",
+  "numberOfPersons": "عدد الأشخاص",
+  "submitReservation": "إرسال الحجز",
+  "flightSearch": "بحث الرحلات",
+  "going": "ذهاب",
+  "return": "عودة",
+  "passengers": "ركاب",
+  "searchFlights": "بحث الرحلات",
+  "themeTitle": "استكشف الفنادق حسب الموضوع",
+  "honeymoon": "شهر العسل",
+  "family": "العائلة",
+  "group": "المجموعة",
+  "relax": "الاسترخاء",
+  "nature": "الطبيعة",
+  "packages": "125 باقة",
+   "hero": {
+    "title": "✈️ سفر واكتشاف",
+    "mainTitle": "سافر معنا إلى أجمل الوجهات السياحية",
+    "button": "اكتشف"
+  },
+  
+    "travelServices": {
+    "smallTitle": "ما نقدمه",
+    "mainTitle": "حلول سفر مصممة خصيصًا لتلبية احتياجاتك",
+    "flightTitle": "تذاكر الطيران",
+    "flightDesc": "حجز الرحلات الداخلية والدولية بأفضل الأسعار.",
+    "hotelTitle": "حجز الفنادق",
+    "hotelDesc": "فنادق مريحة وفاخرة حول العالم.",
+    "tourTitle": "الباقات السياحية",
+    "tourDesc": "رحلات منظمة وتجارب لا تُنسى.",
+    "visaTitle": "خدمات التأشيرة",
+    "visaDesc": "دعم كامل في إجراءات طلب التأشيرة."
+  },
+
+   "about": {
+    "smallTitle": "من نحن",
+    "mainTitle": "وكالة Beyond للسفر – شريكك المثالي",
+    "paragraph1": "وكالة Beyond للسفر هي وكالة متخصصة في تنظيم الرحلات السياحية ورحلات الأعمال والتجارب الفريدة حول العالم.",
+    "paragraph2": "مهمتنا هي توفير رحلات آمنة ومريحة ولا تُنسى من خلال فريق محترف وخدمة عملاء متميزة.",
+    "value1": "خدمات مخصصة",
+    "value2": "وجهات عالمية",
+    "value3": "أفضل الأسعار",
+    "value4": "دعم على مدار الساعة"
+  },
+    "gallery": {
+    "smallTitle": "المعرض",
+    "mainTitle": "اكتشف دبي",
+    "subtitle": "استكشف أجمل الوجهات وتجارب الفخامة في دبي.",
+    "cards": {
+      "burj": "برج خليفة",
+      "desert": "سفاري الصحراء",
+      "palm": "نخلة جميرا",
+      "hotel": "فنادق فاخرة",
+      "marina": "مرسى دبي",
+      "yacht": "يخت فاخر"
+    }
+  },
+   "home": "الرئيسية",
+  "services": "الخدمات",
+  "galleryMenu": "المعرض",
+  "holidayPackages": "الباقات",
+  "aboutUs": "من نحن",
+  "contactUs": "اتصل بنا"
+}

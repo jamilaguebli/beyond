@@ -1,15 +1,30 @@
-
 import './App.css';
 
-import Header from '../src/components/Header'
 
+import Navbar from './components/Navbar';
+import Hero from './components/Hero';
+import Services from './components/Services';
+import About from './components/About';
+import Theme from './components/Theme';
+import Gallery from './components/Gallery';
+import Contact from './components/Contact';
 
 function App() {
   return (
     <div className="App">
- 
- <Header/>
-   </div>
+      <Navbar />
+
+     
+      <div className="pt-20">
+        
+        <Hero />
+        <Services/>
+        <About/>
+        <Theme />
+        <Gallery/>
+        <Contact />
+      </div>
+    </div>
   );
 }
 

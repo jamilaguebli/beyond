@@ -1,0 +1,89 @@
+
+{
+   "contactTitle": "Contactez-nous",
+  "contactDescription": "Vous pouvez nous joindre facilement avec les informations ci-dessous.",
+  "address": "Adresse",
+  "addressValue": "Business Center, Sharjah Publishing City Free Zone, Sharjah, Émirats Arabes Unis",
+  "phone": "Téléphone",
+  "phoneValue": "+971 58 557 760 4",
+  "email": "Email",
+  "emailValue": "travelandbeyond243@gmail.com",
+  "yourName": "Votre Nom",
+  "emailAddress": "Adresse Email",
+  "subject": "Sujet",
+  "message": "Message",
+  "sendMessage": "Envoyer le message",
+   "contact": "+123456789",
+  
+ 
+   "heroTitle": "Personnalisez et réservez des forfaits vacances incroyables",
+  "exploreMore": "Explorer plus",
+  "reservation": "Réservation",
+  "flights": "Vols",
+  "reservationForm": "Formulaire de réservation",
+  "destination": "Destination",
+  "nationality": "Nationalité",
+  "goingDate": "Date d'aller",
+  "returnDate": "Date de retour",
+  "numberOfPersons": "Nombre de personnes",
+  "submitReservation": "Envoyer la réservation",
+  "flightSearch": "Recherche de vol",
+  "going": "Aller",
+  "return": "Retour",
+  "passengers": "Passagers",
+  "searchFlights": "Rechercher des vols",
+   "themeTitle": "Explorez les hôtels par thème",
+  "honeymoon": "Lune de miel",
+  "family": "Famille",
+  "group": "Groupe",
+  "relax": "Relaxation",
+  "nature": "Nature",
+  "packages": "125 forfaits",
+   "hero": {
+    "title": "✨ Évasion & Découverte",
+    "mainTitle": "Voyagez avec nous vers des destinations inoubliables",
+    "button": "Découvrir"
+  },
+ 
+   "travelServices": {
+    "smallTitle": "Ce que nous proposons",
+    "mainTitle": "Des solutions de voyage pensées pour vous",
+    "flightTitle": "Billets d’avion",
+    "flightDesc": "Réservation de vols nationaux et internationaux aux meilleurs prix.",
+    "hotelTitle": "Réservation d’hôtels",
+    "hotelDesc": "Hôtels confortables et de luxe partout dans le monde.",
+    "tourTitle": "Circuits touristiques",
+    "tourDesc": "Voyages organisés et expériences inoubliables.",
+    "visaTitle": "Assistance visa",
+    "visaDesc": "Accompagnement complet pour votre demande de visa."
+  },
+    "about": {
+    "smallTitle": "À propos de nous",
+    "mainTitle": "Beyond Travel Agency – Votre partenaire de voyage",
+    "paragraph1": "Beyond Travel Agency est une agence de voyage spécialisée dans l’organisation de séjours sur mesure, de voyages d’affaires et d’expériences uniques à travers le monde.",
+    "paragraph2": "Notre mission est d’offrir à nos clients des voyages sûrs, confortables et inoubliables grâce à une équipe professionnelle et passionnée.",
+    "value1": "Service personnalisé",
+    "value2": "Destinations internationales",
+    "value3": "Meilleurs prix garantis",
+    "value4": "Assistance 24/7"
+  },
+  "gallery": {
+    "smallTitle": "Galerie",
+    "mainTitle": "Découvrez Dubai",
+    "subtitle": "Explorez les plus belles destinations et expériences de luxe à Dubai.",
+    "cards": {
+      "burj": "Burj Khalifa",
+      "desert": "Safari dans le désert",
+      "palm": "Palm Jumeirah",
+      "hotel": "Hôtels de luxe",
+      "marina": "Dubai Marina",
+      "yacht": "Yacht de luxe"
+    }
+  },
+    "home": "Accueil",
+  "services": "Services",
+  "galleryMenu": "Galerie",
+  "holidayPackages": "Packages",
+  "aboutUs": "À propos",
+  "contactUs": "Contact"
+}
