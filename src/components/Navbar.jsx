@@ -36,12 +36,12 @@ export default function Navbar() {
   return (
     <nav className="fixed top-0 left-0 right-0 z-50">
       
-      <div className="w-full px-6 py-3 flex items-center justify-between bg-white/40 backdrop-blur-xl shadow-md transition hover:bg-white">
+      <div className="flex items-center justify-around w-full px-6 py-3 transition shadow-md bg-white/40 backdrop-blur-xl hover:bg-white">
       
         <img src={nd_beyond} alt="logo" className="w-14 sm:w-16" />
 
        
-        <ul className="hidden md:flex items-center gap-8 font-semibold text-gray-800">
+        <ul className="items-center hidden gap-8 font-semibold text-gray-800 md:flex">
           {menuItems.map((item) => (
             <li
               key={item.id}
@@ -72,7 +72,7 @@ export default function Navbar() {
         </select>
 
        
-        <div onClick={handleNav} className="md:hidden cursor-pointer">
+        <div onClick={handleNav} className="cursor-pointer md:hidden">
           {nav ? <AiOutlineClose size={26} /> : <AiOutlineMenu size={26} />}
         </div>
       </div>
@@ -81,7 +81,7 @@ export default function Navbar() {
       <div
         className={
           nav
-            ? "fixed top-0 left-0 w-[75%] h-screen bg-white p-6 shadow-2xl transition-all duration-500 z-50"
+            ? "fixed top-0 left-0 w-[50%] h-screen bg-white p-6 shadow-2xl transition-all duration-500 z-50"
             : "fixed left-[-100%]"
         }
       >
@@ -103,7 +103,7 @@ export default function Navbar() {
           <select
             value={i18n.language}
             onChange={handleLangChange}
-            className="w-full px-4 py-2 rounded-full border font-semibold"
+            className="w-full px-4 py-2 font-semibold border rounded-full"
           >
             <option value="fr">FR</option>
             <option value="en">EN</option>

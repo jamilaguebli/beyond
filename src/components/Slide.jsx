@@ -8,17 +8,15 @@ const Slide = ({ img }) => {
     <div className="relative w-full h-[70vh] md:h-screen">
 
       {/* Overlay (optionnel mais pro) */}
-      <div className="absolute inset-0 bg-black/40 z-0"></div>
+      <div className="absolute inset-0 z-0 bg-black/40"></div>
 
       {/* Texte CENTRÉ */}
-      <div className="absolute inset-0 flex flex-col items-center justify-center 
-      text-center space-y-4 px-4 z-10">
+      <div className="absolute inset-0 z-10 flex flex-col items-center justify-center px-4 space-y-4 text-center">
 
-        <h3 className="text-lg md:text-xl text-white tracking-wide">
+        <h3 className="text-lg tracking-wide text-white md:text-2xl">
           {t("hero.title")}
         </h3>
-
-        <h2 className="text-3xl md:text-5xl font-bold text-white leading-tight max-w-3xl">
+        <h2 className="max-w-3xl text-2xl font-bold leading-tight text-white md:text-3xl">
           {t("hero.mainTitle")}
         </h2>
 
@@ -32,7 +30,7 @@ const Slide = ({ img }) => {
       <img
         src={img}
         alt="slide"
-        className="w-full h-full object-cover"
+        className="object-cover w-full h-full"
       />
     </div>
   );

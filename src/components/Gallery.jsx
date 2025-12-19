@@ -33,10 +33,10 @@ export default function Gallery() {
           transition={{ duration: 0.8 }}
           className="text-center mb-20"
         >
-          <span className="inline-block px-5 py-2 rounded-full bg-[#4EC3C7]/10 text-[#4EC3C7] text-sm font-semibold tracking-wide mb-4">
+          <span className="inline-block px-5 py-2 rounded-full bg-[#4EC3C7]/10 text-[#4EC3C7] text-xl font-semibold tracking-wide mb-4">
             {t("gallery.smallTitle")}
           </span>
-          <h2 className="text-4xl md:text-6xl font-extrabold text-gray-900">
+          <h2 className="text-2xl md:text-4xl font-extrabold text-gray-900">
             {t("gallery.mainTitle")}
           </h2>
           <p className="mt-5 text-gray-500 max-w-2xl mx-auto text-lg">

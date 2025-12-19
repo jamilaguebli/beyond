@@ -62,13 +62,13 @@ export default function Contact() {
               {/* ADDRESS */}
               <div className="flex items-center gap-5 p-5 transition shadow-lg bg-white/10 backdrop-blur-md rounded-2xl hover:bg-white/20">
                 <div className="p-4 bg-blue-600 rounded-full shadow-lg">
-                  <MapPin className="w-7 h-7 text-white" />
+                  <MapPin className="w-4 h-4 text-white" />
                 </div>
                 <div className="text-left">
-                  <h3 className="text-xl font-semibold text-white">
+                  <h3 className="text-xs font-semibold text-white md:text-xl lg:text-xl">
                     {t("address")}
                   </h3>
-                  <p className="text-lg text-gray-300">
+                  <p className="text-sm text-gray-300 break-all sm:text-base lg:text-lg">
                     {t("addressValue")}
                   </p>
                 </div>
@@ -77,13 +77,13 @@ export default function Contact() {
               {/* PHONE */}
               <div className="flex items-center gap-5 p-5 transition shadow-lg bg-white/10 backdrop-blur-md rounded-2xl hover:bg-white/20">
                 <div className="p-4 bg-green-600 rounded-full shadow-lg">
-                  <Phone className="w-7 h-7 text-white" />
+                  <Phone className="w-4 h-4 text-white" />
                 </div>
                 <div className="text-left">
-                  <h3 className="text-xl font-semibold text-white">
+                  <h3 className="text-xs font-semibold text-white md:text-xl lg:text-xl">
                     {t("phone")}
                   </h3>
-                  <p className="text-lg text-gray-300">
+                  <p className="text-sm text-gray-300 break-all sm:text-base lg:text-lg">
                     {t("phoneValue")}
                   </p>
                 </div>
@@ -92,13 +92,13 @@ export default function Contact() {
               {/* EMAIL */}
               <div className="flex items-center gap-5 p-5 transition shadow-lg bg-white/10 backdrop-blur-md rounded-2xl hover:bg-white/20">
                 <div className="p-4 bg-pink-600 rounded-full shadow-lg">
-                  <Mail className="w-7 h-7 text-white" />
+                  <Mail className="w-4 h-4 text-white" />
                 </div>
                 <div className="text-left">
-                  <h3 className="text-xl font-semibold text-white">
+                  <h3 className="text-xs font-semibold text-white md:text-xl lg:text-xl">
                     {t("email")}
                   </h3>
-                  <p className="text-lg text-gray-300">
+                  <p className="text-sm text-gray-300 break-all sm:text-base lg:text-lg">
                     {t("emailValue")}
                   </p>
                 </div>
